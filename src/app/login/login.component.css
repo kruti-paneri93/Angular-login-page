@@ -1,0 +1,42 @@
+.text-center{
+    text-align: center;
+}
+.example-container{
+    height: 50%;
+    width: 20%;
+    text-align: left;
+}
+.d-flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mat-form-field{
+    width: 100%;
+}
+.mt-top{
+    margin-top: 30px;
+}
+.mt-top-2{
+    margin-top: 10px;
+}
+.input-styling{
+    border: 1px solid #000;
+    border-radius: 8px;
+    height: 55px;
+}
+.w-100{
+    width: 100%;
+}
+.btn-styling{
+    width: 100%;
+    display: block;
+}
+.text-center{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0;
+    width: 100%;
+}
